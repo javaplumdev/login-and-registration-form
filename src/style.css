@@ -16,3 +16,7 @@ body {
 	transform: translate(-50%, -50%);
 	max-width: 560px;
 }
+
+.alertField {
+	color: red;
+}
